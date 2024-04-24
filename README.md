@@ -3,14 +3,16 @@
 ```
 - 📦 MultiNet Route Optimizer
   |- 📄 README.md        #Guide file
-  |- 📂 Data             #Here you can see datasets.
-  |- 📂 Notebooks        #Here you can see a Main.ipynb which is the main file. You can run it on Google Colab
-  |- 📂 Report           #Here you can see a complete report of what we have done in Main.ipynb
+  |- 📂 Src              #Here you can see random_generator.py which has generated random_generator.csv file.
+  |- 📂 Notebooks        #Here you can see a All_in_one.ipynb which is the main file. You can run it on Google Colab.
+  |- 📂 Report           #Here you can see a pdf presentation file to clarification
+    |-- 📂 CSV files     #Here you can see the results of jupyter file.
+  |- 📂 Topologies       #Here you can see two used topologies in the program
 ```
+# Guide to use:
+Just run All_in_one.ipynb on colab.
 
-
-# Nokia Project Detail
-
+# Project Detail
 
 **Problem**: Routing strategies for multilayer network
 planning.
