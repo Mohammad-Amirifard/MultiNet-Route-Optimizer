@@ -1,7 +1,7 @@
 import random
 import pandas as pd
 
-
+# This function tries to generate 20000 random demands(100Gb/s or 400Gb/s) for 8 nodes 
 def demand_generator(nodes):
 
     data_rate = [100, 400]
@@ -18,9 +18,10 @@ def demand_generator(nodes):
             random_demands_list.append([1, random_data_rate[0], random_source[0], random_destination[0]])
 
     random_demands_df = pd.DataFrame(random_demands_list, columns=['no_demands', 'data_rate', 'source', 'destination'])
-    random_demands_df.to_csv('random_demands.csv', index=False, header=True)
+    random_demands_df.to_csv('random_demands.csv', index=False, header=True)   # Save it random_demands.csv file 
+    
 
-
+# Run it 
 demand_generator([0,1,2,3,4,5,6,7])
 
 
