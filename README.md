@@ -32,7 +32,13 @@ in Top-Down and Bottom-Up approach and comparing them using optimizaton methods!
 | Number of links                                 | 16 |
 | Average length of link                            | Near 150 Km                                                                                                                                |
 | Maximum length of link                            | Near 400 Km                                                                                                                                |
-# Assumption 1: 
+
+| Assumptions For Continental topology                                                                                                                 | Description                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of Nodes    |    8                                                                                                                 |
+| Number of links                                 | 20 |
+| Average length of link                            | Near 300 Km                                                                                                                                |
+| Maximum length of link                            | Near 1000 Km                                                                                                                                |
 
 **What to compare?**: 
 1_Deployed WDM trails 
