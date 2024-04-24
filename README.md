@@ -52,7 +52,7 @@ For the problem we must consider the following sections:
 
 
 # Download presentation file
-if you can not see pdf file in Report folder, try to use the following link
+if you cannot see pdf file in Report folder, try to use the following link
 [Link](https://drive.google.com/file/d/1ZvIotf1deqFiXnZfRrRoocD2ExstaiH7/view?usp=sharing)
 
 
