@@ -26,7 +26,13 @@ in Top-Down and Bottom-Up approach and comparing them using optimizaton methods!
 | Demand Rate                             | 100Gb/s or  200Gb/s                                                                                                                                      |
 
 
-
+| Assumptions For National topology                                                                                                                 | Description                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of Nodes    |    8                                                                                                                 |
+| Number of links                                 | 16 |
+| Average length of link                            | Near 150 Km                                                                                                                                |
+| Maximum length of link                            | Near 400 Km                                                                                                                                |
+# Assumption 1: 
 
 **What to compare?**: 
 1_Deployed WDM trails 
